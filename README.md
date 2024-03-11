@@ -1,0 +1,2 @@
+# codigoprimoounao
+ativadade codigo primo
